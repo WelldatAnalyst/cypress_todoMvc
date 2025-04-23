@@ -1,0 +1,11 @@
+{
+  "name": "bootcamo-todomvc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wellQa",
+  "license": "MIT",
+  "dependencies": {
+    "bootcamo-todomvc": "file:",
+    "cypress": "^14.3.0"
+  }
+}
